@@ -1,0 +1,6 @@
+https://stackoverflow.com/a/45554728
+
+https://serverfault.com/a/852298
+
+docker run -d -p 8080:8080 --name aws-crash-course f87cfae9c3d9
+
